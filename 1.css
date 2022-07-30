@@ -264,7 +264,7 @@
     text-align: center;
     /* top: 150px;
     right: 70px; */
-    /* border-spacing: 10px 5px; */
+    /* border-spacing: 0px 3px; */
 }
 
 .promotionnameBorderBoxblack{
@@ -273,24 +273,24 @@
     border-left: 1px rgb(255, 255, 255) solid;
     border-bottom: 1px rgb(255, 255, 255) solid;
     color: white;
-    width: 30px;
-    height: 100px;
+    width: 80px;
+    height: 95px;
     overflow: hidden;
     position: absolute;
     text-align: center;
     /* top: 150px;
     right: 70px; */
-    /* border-spacing: 10px 5px; */
+    /* border-spacing: 0px 3px; */
 }
 
 .promotionBorderBoxblack{
-    border-top: 5px black solid;
-    border-right: 5px black solid;
-    border-left: 5px black solid;
-    border-bottom: 5px black solid;
+    border-top: 1px white solid;
+    border-right: 1px white solid;
+    border-left: 1px white solid;
+    border-bottom: 1px white solid;
     color: white;
-    width: 30px;
-    height: 20px;
+    width: 500px;
+    height: 15px;
     overflow: hidden;
     position: absolute;
     text-align: center;
@@ -305,14 +305,46 @@
     border-left: 5px black solid;
     border-bottom: 5px black solid;
     color: white;
-    width: 300px;
+    width: 325px;
     height: 250px;
     overflow: hidden;
     position: absolute;
     text-align: center;
     /* top: 150px;
     right: 70px; */
-    border-spacing: 20px 0px;
+    border-spacing: 20px 3px;
+}
+
+.promotionscoreBorderBoxblack{
+    border-top: 1px white solid;
+    border-right: 1px white solid;
+    border-left: 1px white solid;
+    border-bottom: 1px white solid;
+    color: white;
+    width: 300px;
+    height: 250px;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    top: 325px;
+    right: 310px;
+    border-spacing: 20px 5px;
+}
+
+.promotionscoreBorderBoxblack2{
+    border-top: 1px white solid;
+    border-right: 1px white solid;
+    border-left: 1px white solid;
+    border-bottom: 1px white solid;
+    color: white;
+    width: 100px;
+    height: 50px;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    /* top: 150px;
+    right: 70px; */
+    /* border-spacing: 20px 0px; */
 }
 
 .promotiontotalBorderBoxblack{
@@ -326,7 +358,7 @@
     overflow: hidden;
     position: absolute;
     text-align: center;
-    top: 100px;
+    top: 25px;
     right: 110px;
     border-spacing: 20px 10px;
 }
